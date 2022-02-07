@@ -24,6 +24,7 @@ const imc3:number = peso3 / (altura3+altura3);
 
 //R01 - Somar idade Ubuntus
 const soma:number = idade1 + idade2 + idade3;
+console.log(`A soma da Idade dos Ubuntus eh: ${soma}`);
 //R02 - Agrupar nome dos Ubuntus
 console.log(nome1+' '+nome2+' '+nome3);
 //R03 - Calcular média IMC
